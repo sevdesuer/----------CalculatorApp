@@ -41,7 +41,7 @@ def on_button_click(symbol):
 
 # Tkinter de pencere oluşturma
 root = tk.Tk()
-root.title("Hesap Makinesi")
+root.title("계산기프로젝트/CalculatorApp")
 root.configure(bg="#FF69B4")
 
 # Giriş kutusu
